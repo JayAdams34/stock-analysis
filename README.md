@@ -2,7 +2,7 @@
 
 
 ##  Overview of Project
-### Purpose
+## Purpose
   The purpose of this analysis was to find the total daily volume and return percentage for each stock ticker within the years 2017 and 2018 using Visual Basic for Applications.
   
 ## Results
