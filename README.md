@@ -6,6 +6,7 @@
   The purpose of this analysis was to find the total daily volume and return percentage for each stock ticker within the years 2017 and 2018 using Visual Basic for Applications.
   
 ## Results
+### Deliverable 1
   The results of this analysis indicate that in 2017 every ticker other than TERP had a positive return percentage, whereas in 2018 only ENPH and RUN had an increase in their returns. Looking closer, we can see that in 2017 RUN had the greatest relative change at 82%, but in 2018 DQ was the winner for the year at nearly 200%!  The execution times for the original script were 1.10 seconds for 2017's stocks and 1.06 for 2018's, while the refactored script was much more efficient with times on 0.226 seconds for the year 2017 and 0.179 seconds in 2018.  
   <img src="VBA_C_original.png" width="30%" height="30%" title="Original VBA Script"> <img src="Resources/VBA_Challenge_2017.png" width="30%" height="30%" title="Resources/Refactored 2017"> <img src="Resources/VBA_Challenge_2018.png" width="30%" height="30%" title="Refactored 2018">
   
