@@ -7,7 +7,7 @@
   
 ## Results
   The results of this analysis indicate that in 2017 every ticker other than TERP had a positive return percentage, whereas in 2018 only ENPH and RUN had an increase in their returns. Looking closer, we can see that in 2017 RUN had the greatest relative change at 82%, but in 2018 DQ was the winner for the year at nearly 200%!  The execution times for the original script were 1.10 seconds for 2017's stocks and 1.06 for 2018's, while the refactored script was much more efficient with times on 0.226 seconds for the year 2017 and 0.179 seconds in 2018.  
-  <img src="VBA_C_original.png" width="30%" height="30%" title="Original VBA Script">
+  <img src="VBA_C_original.png" width="30%" height="30%" title="Original VBA Script"> <img src="Resources/VBA_Challenge_2017.png" width="30%" height="30%" title="Resources/Refactored 2017"> <img src="VBA_C_original.png" width="30%" height="30%" title="Refactored 2018">
   
 ## Summary
   Some advantages to refactoring the code are that it is far more efficient. After refactoring, the runtime was multple times faster. It also has a better structure due to implementing arrays to cut out repetitive steps. The only disadvantage I can point out is that although it is more efficient, it could be a little harder to follow along without additional information on arrays. 
